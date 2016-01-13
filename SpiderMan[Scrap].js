@@ -9,6 +9,7 @@ var folder = new java.io.File(sdcard+"/Scrap/");
 
 folder.mkdir();
 var X,Y,Z;
+var dfgsjdjdhhe;
 var sec=0;
 var t=0;
 var gs;
